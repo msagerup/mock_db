@@ -1,0 +1,20 @@
+{
+    "products": [
+    {
+    "id": "prod1",
+      "name": "Silver Ring",
+      "desc": "Silver Ring with 1 diamond",
+      "images": [],
+      "default_price": 7900
+     
+    },
+    {
+        "id": "prod2",
+          "name": "Gold Ring",
+          "desc": "Gold plated ring with 1 diamond",
+          "images": [],
+          "default_price": 9900
+          
+        }
+  ]
+}
